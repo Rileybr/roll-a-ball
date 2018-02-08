@@ -1,9 +1,13 @@
-﻿using System.Collections;
+﻿/* Brandon Riley
+ * 2/8/2018
+ * rotates pick ups
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Rotator : MonoBehaviour {
-	
+	//rotates pick ups
 	// Update is called once per frame
 	void Update () 
 	{
